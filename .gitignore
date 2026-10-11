@@ -1,0 +1,16 @@
+# Jupyter / Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Spark artifacts
+spark-warehouse/
+metastore_db/
+derby.log
+*.crc
+_SUCCESS
+
+# Full dataset (not redistributed, see data/README.md)
+data/bankdataset.csv
+
+.DS_Store

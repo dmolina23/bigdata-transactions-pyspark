@@ -1,0 +1,11 @@
+1. The gap between the highest month (August, 640,898,982.37 €) and the lowest (February, 576,989,862.13 €) is 63,909,120.24 €.
+
+2. Among the countries not in crisis, Argentina has the highest spending per transaction: 5.13 €.
+
+3. 49.53 % of the 18,654 international transactions in countries with local taxes above 12 % have management costs above the EU average (7,494.63 €).
+
+4. The largest quarter-on-quarter change in efficiency is in Restaurantes: -0.0007 % in quarter 2 compared with quarter 1 (ratio 0.99980). The ratio stays very close to 1 in every domain and quarter.
+
+5. Using data since 2022-10-01, the non-crisis country with the highest risk index is Australia (0.74 on a 0-1 scale). This is a heuristic ranking, not a probability.
+
+6. The most volatile domain is Ventas, with a month-on-month standard deviation of 7.04 percentage points.

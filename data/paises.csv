@@ -1,0 +1,47 @@
+ID;País;Impuestos_Locales;Situación_de_Crisis
+1;España;12.38;True
+2;Argentina;5.74;False
+3;Brasil;10.51;True
+4;México;3.27;False
+5;Perú;8.93;True
+6;Canadá;2.41;False
+7;Australia;13.08;False
+8;Marruecos;7.19;True
+9;Corea del Sur;6.55;False
+10;Nueva Zelanda;4.22;False
+11;Alemania;11.67;False
+12;Francia;14.89;False
+13;Chile;9.12;True
+14;Suecia;10.77;False
+15;Noruega;13.41;False
+16;Grecia;7.90;True
+17;Colombia;4.63;True
+18;Italia;11.23;False
+19;Sudáfrica;6.02;True
+20;Tailandia;3.58;False
+21;Japón;12.61;False
+22;Finlandia;9.84;False
+23;Portugal;10.39;False
+24;Turquía;5.18;True
+25;Vietnam;1.89;False
+26;Egipto;7.75;True
+27;Islandia;13.99;False
+28;Polonia;6.47;False
+29;República Checa;8.04;False
+30;Hungría;4.31;False
+31;Ucrania;2.76;True
+32;Arabia Saudita;9.61;False
+33;Emiratos Árabes Unidos;3.05;False
+34;Filipinas;5.94;True
+35;Indonesia;6.88;False
+36;Nigeria;7.36;True
+37;Venezuela;2.15;True
+38;Bolivia;4.77;True
+39;Uruguay;8.41;False
+40;Paraguay;6.22;True
+41;Nicaragua;3.66;True
+42;Panamá;9.07;False
+43;Costa Rica;10.11;False
+44;República Dominicana;11.94;True
+45;Cuba;1.43;True
+46;El Salvador;5.36;True
